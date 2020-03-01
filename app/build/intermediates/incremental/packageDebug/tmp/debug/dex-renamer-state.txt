@@ -1,0 +1,4 @@
+#Thu Feb 20 13:22:23 ICT 2020
+base.0=E\:\\azkia\\Scan-QR-Code-Barcode-master\\BarcodeQR\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

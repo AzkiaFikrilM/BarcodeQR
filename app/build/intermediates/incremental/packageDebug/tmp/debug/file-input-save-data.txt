@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Feb 20 13:22:24 ICT 2020
+0.baseType=DIRECTORY
+0.base=E\:\\azkia\\Scan-QR-Code-Barcode-master\\BarcodeQR\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
